@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/bb3b735b-b507-442f-981c-3422110c15f3/resourceGroups/VS-sqsandres-Group/providers/Microsoft.Web/sites/MarxHalo",
+    "appService.deploySubpath": ""
+}
